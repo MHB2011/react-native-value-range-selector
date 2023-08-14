@@ -1,0 +1,29 @@
+{
+  "name": "react-native-value-range-selector",
+  "version": "1.0.0",
+  "description": "Simple value range selector for react native",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MHB2011/react-native-value-range-selector.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Range",
+    "Selector",
+    "Picker",
+    "Trimmer",
+    "Video",
+    "Duration"
+  ],
+  "author": "Toni Diklic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MHB2011/react-native-value-range-selector/issues"
+  },
+  "homepage": "https://github.com/MHB2011/react-native-value-range-selector#readme"
+}
