@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/MHB2011/react-native-value-range-selector/issues"
   },
-  "homepage": "https://github.com/MHB2011/react-native-value-range-selector#readme"
+  "homepage": "https://github.com/MHB2011/react-native-value-range-selector#readme",
+  "engines": {
+    "node": ">=10"
+  }
 }
